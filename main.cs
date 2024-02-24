@@ -41,6 +41,6 @@ class Program
                 message += input + " ";
               }
             }
-        Console.WriteLine("Current Message is:" = message);
+        Console.WriteLine("Current Message is:" + message);
     }
 }
